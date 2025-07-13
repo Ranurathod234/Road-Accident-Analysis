@@ -2,8 +2,8 @@
 
 - [📈 Excel Solution/Analysis File (Google Drive)](https://drive.google.com/drive/folders/1QUPN3ivNYrldCvglnVahTb9KG-bYVqq0?usp=sharing) <!-- Replace with your Excel/solution link -->
 
-[🔗 View Dashboard](https://res.cloudinary.com/dks6y5edm/image/upload/v1752400364/Dashboard_cuqz2t.jpg
-) <!-- Replace with actual Power BI dashboard or hosted link -->
+![Dashboard](https://res.cloudinary.com/dks6y5edm/image/upload/v1752400364/Dashboard_cuqz2t.jpg
+)
 ---
 
 ## 📌 1. Problems and Background
